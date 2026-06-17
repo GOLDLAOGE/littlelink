@@ -320,10 +320,9 @@
 	--button-border:1px solid #FFFFFF;
 }
 
-/* Line */
 .button-line {
 	--button-text:#FFFFFF;
-	--button-background:#06C755;
+	--button-background:#007A33;
 }
 
 /* LinkedIn */
@@ -429,8 +428,8 @@
 
 /* Reddit */
 .button-reddit {
-	--button-text:#FFFFFF;
-	--button-background:#FF4500;
+	--button-text:#ffffff;
+	--button-background:#B83200;
 }
 
 /* Shop */
@@ -525,7 +524,7 @@
 /* Telegram */
 .button-telegram {
 	--button-text:#ffffff;
-	--button-background:#3faee8;
+	--button-background:#006B9E;
 }
 
 /* Threads */
